@@ -1,1 +1,11 @@
 2022-06-08 08:55:05,114|192.168.179.1|gulimall-gateway.properties|DEFAULT_GROUP|17eacec4-a5a5-476a-b5d4-eab8454b1484|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-08 08:55:13,407|192.168.179.1|gulimall-third-party.properties|DEFAULT_GROUP|57347054-1d28-48ab-b308-c5f8ba0ced90|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-08 08:55:13,410|192.168.179.1|oss.yaml|DEFAULT_GROUP|57347054-1d28-48ab-b308-c5f8ba0ced90|unknown|1654415085375|pull|ok|234628035|127.0.0.1
+2022-06-08 08:55:23,437|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-08 09:15:47,507|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-08 10:40:11,089|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-08 10:42:47,786|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-08 11:05:12,453|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-08 11:06:28,346|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-08 11:06:50,967|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-08 14:03:41,640|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
