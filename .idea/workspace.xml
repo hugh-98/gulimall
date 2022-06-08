@@ -8,7 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23ed7a65-e625-4431-a83b-249e4c1867ce" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/gulimall-third-party/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-third-party/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nacos/bin/logs/access_log.2022-06-08.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos/bin/logs/access_log.2022-06-08.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nacos/logs/config-client-request.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos/logs/config-client-request.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nacos/logs/config-memory.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos/logs/config-memory.log" afterDir="false" />
@@ -332,7 +332,7 @@
       <workItem from="1654401319394" duration="16393000" />
       <workItem from="1654482585933" duration="13374000" />
       <workItem from="1654582325466" duration="5030000" />
-      <workItem from="1654649555239" duration="9197000" />
+      <workItem from="1654649555239" duration="9786000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始结构创建">
       <created>1653390990824</created>

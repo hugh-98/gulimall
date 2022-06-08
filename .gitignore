@@ -16,3 +16,5 @@ buildNumber.properties
 **/.mvn
 **/target/
 **/.gitignore
+gulimall-third-party/src/main/resources/application.yml
+gulimall-third-party/src/main/resources/bootstrap.properties
