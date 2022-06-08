@@ -1,0 +1,15 @@
+2022-06-06 10:54:56,681|192.168.179.1|gulimall-gateway.properties|DEFAULT_GROUP|17eacec4-a5a5-476a-b5d4-eab8454b1484|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-06 10:55:11,681|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-06 10:55:15,714|192.168.179.1|gulimall-third-party.properties|DEFAULT_GROUP|57347054-1d28-48ab-b308-c5f8ba0ced90|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-06 10:55:15,716|192.168.179.1|oss.yaml|DEFAULT_GROUP|57347054-1d28-48ab-b308-c5f8ba0ced90|unknown|1654415085375|pull|ok|69030341|127.0.0.1
+2022-06-06 13:20:56,957|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-06 13:31:29,566|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-06 14:33:58,150|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-06 14:38:18,429|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-06 14:40:24,150|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-06 14:41:30,188|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-06 14:46:22,501|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-06 15:28:36,335|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-06 15:31:30,059|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-06 15:36:26,321|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-06-06 19:43:19,834|192.168.179.1|gulimall-product.properties|DEFAULT_GROUP|7a2040e6-cbef-4b69-aecd-2c75ba105d1b|unknown|-1|pull|not-found|-1|127.0.0.1

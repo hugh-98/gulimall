@@ -1,0 +1,94 @@
+2022-06-08 08:54:15,819 INFO Starting Nacos v1.1.3 on DESKTOP-7CK6BAS with PID 22360 (D:\java_study\gulimall\nacos\target\nacos-server.jar started by H in D:\java_study\gulimall\nacos\bin)
+
+2022-06-08 08:54:15,824 INFO The following profiles are active: standalone
+
+2022-06-08 08:54:17,254 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$7beae470] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2022-06-08 08:54:17,321 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2022-06-08 08:54:17,323 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@6892b3b6' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2022-06-08 08:54:17,326 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$a0bf8722] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2022-06-08 08:54:17,329 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2022-06-08 08:54:17,986 INFO Tomcat initialized with port(s): 8848 (http)
+
+2022-06-08 08:54:18,009 INFO Starting service [Tomcat]
+
+2022-06-08 08:54:18,009 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2022-06-08 08:54:18,022 INFO Loaded APR based Apache Tomcat Native library [1.2.26] using APR version [1.7.0].
+
+2022-06-08 08:54:18,023 INFO APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+
+2022-06-08 08:54:18,023 INFO APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+
+2022-06-08 08:54:18,026 INFO OpenSSL successfully initialized [OpenSSL 1.1.1i  8 Dec 2020]
+
+2022-06-08 08:54:18,105 INFO Initializing Spring embedded WebApplicationContext
+
+2022-06-08 08:54:18,105 INFO Root WebApplicationContext: initialization completed in 2239 ms
+
+2022-06-08 08:54:20,238 INFO Use Mysql as the driver
+
+2022-06-08 08:54:20,680 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2022-06-08 08:54:20,831 INFO Adding welcome page: class path resource [static/index.html]
+
+2022-06-08 08:54:21,126 INFO Creating filter chain: Ant [pattern='/'], []
+
+2022-06-08 08:54:21,127 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2022-06-08 08:54:21,128 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2022-06-08 08:54:21,128 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2022-06-08 08:54:21,129 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2022-06-08 08:54:21,129 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2022-06-08 08:54:21,129 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2022-06-08 08:54:21,130 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2022-06-08 08:54:21,130 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2022-06-08 08:54:21,130 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2022-06-08 08:54:21,131 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2022-06-08 08:54:21,131 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2022-06-08 08:54:21,131 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2022-06-08 08:54:21,132 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2022-06-08 08:54:21,132 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2022-06-08 08:54:21,132 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2022-06-08 08:54:21,159 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@29df4d43, org.springframework.security.web.context.SecurityContextPersistenceFilter@36f48b4, org.springframework.security.web.header.HeaderWriterFilter@665df3c6, org.springframework.security.web.authentication.logout.LogoutFilter@4b20ca2b, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@5dd91bca, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3b7ff809, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3f792b9b, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@40cb698e, org.springframework.security.web.session.SessionManagementFilter@4044fb95, org.springframework.security.web.access.ExceptionTranslationFilter@58fe0499, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@607fbe09]
+
+2022-06-08 08:54:21,188 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2022-06-08 08:54:21,217 INFO Initializing ExecutorService 'taskScheduler'
+
+2022-06-08 08:54:21,328 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2022-06-08 08:54:21,332 INFO Started Nacos in 6.348 seconds (JVM running for 6.838)
+
+2022-06-08 08:54:21,333 INFO Nacos Log files: D:\java_study\gulimall\nacos/logs/
+
+2022-06-08 08:54:21,333 INFO Nacos Conf files: D:\java_study\gulimall\nacos/conf/
+
+2022-06-08 08:54:21,333 INFO Nacos Data files: D:\java_study\gulimall\nacos/data/
+
+2022-06-08 08:54:21,333 INFO Nacos started successfully in stand alone mode.
+
+2022-06-08 08:54:21,608 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2022-06-08 08:54:21,608 INFO Initializing Servlet 'dispatcherServlet'
+
+2022-06-08 08:54:21,615 INFO Completed initialization in 6 ms
+

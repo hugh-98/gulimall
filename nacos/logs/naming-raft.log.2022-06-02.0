@@ -1,0 +1,36 @@
+2022-06-02 12:52:10,104 INFO initializing Raft sub-system
+
+2022-06-02 12:52:10,105 INFO raft notifier started
+
+2022-06-02 12:52:10,105 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2022-06-02 12:52:10,107 INFO cache loaded, datum count: 0, current term: 0
+
+2022-06-02 12:52:10,107 INFO finish to load data from disk, cost: 2 ms.
+
+2022-06-02 12:52:10,109 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2022-06-02 12:52:10,042 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.179.1","key":"192.168.179.1:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2022-06-02 12:52:10,117 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.179.1","key":"192.168.179.1:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2022-06-02 12:52:10,156 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2022-06-02 12:52:11,521 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2022-06-02 12:52:15,042 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.179.1","key":"192.168.179.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2022-06-02 12:52:15,042 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.179.1","key":"192.168.179.1:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2022-06-02 12:52:15,042 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.179.1","key":"192.168.179.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2022-06-02 12:52:30,056 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.179.1","key":"192.168.179.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2022-06-02 12:53:14,204 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@renren-fast
+
+2022-06-02 12:53:48,368 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-gateway
+
+2022-06-02 12:54:20,091 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-product
+
+2022-06-02 12:54:20,091 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-product
+

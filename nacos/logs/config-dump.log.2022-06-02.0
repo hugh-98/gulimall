@@ -1,0 +1,12 @@
+2022-06-02 12:52:12,244 INFO [dump-all-ok] gulimall-coupon.properties+DEFAULT_GROUP, 1653814213373, length=45, md5=6f05e1639518b5c1f1868b25bba6a2e3
+
+2022-06-02 12:52:12,246 INFO [dump-all-ok] datasource.yaml+dev, 1653821743025, length=185, md5=c4f22dfe635a70b382acea75271524ad
+
+2022-06-02 12:52:12,246 INFO [dump-all-ok] mybatis.yaml+dev, 1653821920017, length=119, md5=3388279695fbbb4a2b0dffb0da8f934f
+
+2022-06-02 12:52:12,246 INFO [dump-all-ok] other.yaml+dev, 1653822076139, length=156, md5=c99f2a5fb76d4c75007ce34d01e137c8
+
+2022-06-02 12:52:12,246 INFO [dump-all-ok] gulimall-coupon.properties+DEFAULT_GROUP, 1653824062452, length=66, md5=dc37f4ea57e01cf775365ca3258206d3
+
+2022-06-02 12:52:12,246 INFO [dump-all-ok] gulimall-gateway.yaml+DEFAULT_GROUP, 1653827575940, length=53, md5=0b25493115fb2d66d11e6224edaef7a5
+

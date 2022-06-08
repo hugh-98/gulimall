@@ -1,0 +1,36 @@
+2022-06-02 12:53:15,240 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
+
+2022-06-02 12:53:49,379 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
+
+2022-06-02 12:54:21,096 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
+
+2022-06-02 15:57:32,346 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
+
+2022-06-02 15:57:32,347 INFO serviceName: DEFAULT_GROUP@@gulimall-product changed, schedule push for: 10.1.125.73:53024, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,53024,90968889976800
+
+2022-06-02 15:57:32,347 INFO send udp packet: 10.1.125.73,53024,90968889976800
+
+2022-06-02 15:57:32,356 INFO received ack: {"type": "push-ack", "lastRefTime":"90968889976800", "data":""} from: 10.1.125.73:, cost: 53024 ms, unacked: 9, total push: 0
+
+2022-06-02 15:57:39,030 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
+
+2022-06-02 15:57:39,030 INFO serviceName: DEFAULT_GROUP@@gulimall-product changed, schedule push for: 10.1.125.73:53024, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,53024,90975573773900
+
+2022-06-02 15:57:39,030 INFO send udp packet: 10.1.125.73,53024,90975573773900
+
+2022-06-02 15:57:39,032 INFO received ack: {"type": "push-ack", "lastRefTime":"90975573773900", "data":""} from: 10.1.125.73:, cost: 53024 ms, unacked: 2, total push: 0
+
+2022-06-02 18:41:37,317 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
+
+2022-06-02 18:41:37,317 INFO serviceName: DEFAULT_GROUP@@renren-fast changed, schedule push for: 10.1.125.73:53024, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,53024,100813773015100
+
+2022-06-02 18:41:37,317 INFO send udp packet: 10.1.125.73,53024,100813773015100
+
+2022-06-02 18:41:37,349 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
+
+2022-06-02 18:41:37,381 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
+
+2022-06-02 18:41:37,381 INFO serviceName: DEFAULT_GROUP@@gulimall-product changed, schedule push for: 10.1.125.73:53024, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,53024,100813836701500
+
+2022-06-02 18:41:37,381 INFO send udp packet: 10.1.125.73,53024,100813836701500
+
